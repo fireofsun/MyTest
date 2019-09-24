@@ -1,5 +1,8 @@
 package com.guandata.ftpdownloader;
 
+import com.fasterxml.jackson.core.JsonParser;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.jcraft.jsch.SftpException;
 import org.joda.time.format.DateTimeFormatter;
 import org.slf4j.Logger;
@@ -9,6 +12,7 @@ import java.io.*;
 import org.joda.time.LocalDateTime;
 
 import java.util.Date;
+import java.util.Map;
 import java.util.Properties;
 
 public class FtpDownloader {
@@ -45,6 +49,29 @@ public class FtpDownloader {
         /*FtpDownloader fd = new FtpDownloader();
         //fd.runSftpDownloader();
         fd.runSftpDownloader();*/
+        /*File settingFile = new File("./userConfig.json");
+        ObjectMapper objectMapper = new ObjectMapper().enable(JsonParser.Feature.ALLOW_COMMENTS);
+        try {
+            JsonNode settingJson= objectMapper.readTree(settingFile);
+            String username = settingJson.path("username").asText();
+            String password = settingJson.path("password").asText();
+            String host = settingJson.path("host").asText();
+            int port = settingJson.path("port").asInt();
+
+            for(JsonNode file : settingJson.path("files")) {
+                String fileName = file.path("Snapshot").asText();
+                String fromDir = file.path("toDir").asText();
+                boolean isFullName = file.path("isFullName").asBoolean();
+                String suffix = file.path("suffix").asText();
+
+
+            }
+
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }*/
+
 
     }
 
@@ -78,6 +105,7 @@ public class FtpDownloader {
 
 
     public void runSftpDownloader(LocalDateTime time){
+        Logger log = LoggerFactory.getLogger(this.getClass());
         try {
             InputStream inStream = new FileInputStream(new File("./userConfig.properties"));
             Properties prop = new Properties();
@@ -92,8 +120,6 @@ public class FtpDownloader {
             String[] filenames = filenamesStr.split(",");
 
             SFTPUtil sftpUtil = new SFTPUtil(username, password, host, Integer.parseInt(port));
-            Logger log = LoggerFactory.getLogger(sftpUtil.getClass());
-
             sftpUtil.login();
             for(String filename : filenames){
                 String trimFilename = filename.trim();
@@ -106,16 +132,11 @@ public class FtpDownloader {
                 String timedFilename = trimFilename +"_"+ time.toString("yyyyMMdd")+".xlsx";
                 //timedFilename = trimFilename;
                 log.info("[ftpDownloader "+ new Date() +"] fetching file " +timedFilename + " and saving to " + pathToSaveFile);
-                try {
-                    sftpUtil.downloadSingleFile(timedFilename, pathToSaveFile);
-                } catch (SftpException e) {
-                    e.printStackTrace();
-                }
+                sftpUtil.downloadSingleFile(timedFilename, pathToSaveFile);
             }
             sftpUtil.logout();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
+            log.error("[ftpDownloader "+ new Date() +"] can not read property file");
             e.printStackTrace();
         }
     }

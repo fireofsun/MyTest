@@ -1,0 +1,38 @@
+{
+	"usename":"hello",
+	"password":"",
+	"host":"",
+	"port":22,
+	"files":[
+		{
+			"name":"Snapshot",
+			"fromDir":"/media/data/wms/bi/snapshot/Snapshot",
+			"toDir":"/home/guandata/workbench/Guandata_Workbench/excel/Snapshot",
+			"isFullName":false,
+			"suffix":"xlsx"
+		},
+		{
+			"name":"Shipment",
+			"fromDir":"/media/data/wms/bi/shipment/Shipment",
+			"toDir":"/home/guandata/workbench/Guandata_Workbench/excel/Shipment",
+			"isFullName":false,
+			"suffix":"xlsx"
+		},
+		{
+			"name":"Flow",
+			"fromDir":"/media/data/wms/bi/snapshot/Flow",
+			"toDir":"/home/guandata/workbench/Guandata_Workbench/excel/Flow",
+			"isFullName":false,
+			"suffix":"xlsx"
+		},
+		{
+			"name":"Traffic",
+			"fromDir":"/media/data/traffic/bi/Traffic",
+			"toDir":"/home/guandata/workbench/Guandata_Workbench/excel/Traffic",
+			"isFullName":false,
+			"suffix":"xlsx"
+		}
+
+
+	]
+}

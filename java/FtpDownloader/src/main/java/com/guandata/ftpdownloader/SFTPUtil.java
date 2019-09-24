@@ -164,12 +164,25 @@ public class SFTPUtil {
      * @param downloadFile 下载的文件，文件名中包含绝对路径
      * @param saveFile 存在本地的路径
      */
-    public void downloadSingleFile(String downloadFile, String saveFile) throws SftpException{
-        File file = createFileWithPath(saveFile);
+    public void downloadSingleFile(String downloadFile, String saveFile){
+        String tmpDownloadFilePath = "./tmpfile";
+        File tmpFile = createFileWithPath(tmpDownloadFilePath);
         try {
-            sftp.get(downloadFile, new FileOutputStream(file));
+            sftp.get(downloadFile, new FileOutputStream(tmpFile));
+            if(tmpFile.exists() && tmpFile.length()!=0){
+                File file = createFileWithPath(saveFile);
+                if(tmpFile.renameTo(file))
+                    log.info("[SFTPUTIL downloadSingleFile"+ new Date() +"] move download file to "+ saveFile +" success!");
+                else
+                    log.error("[SFTPUTIL downloadSingleFile"+ new Date() +"] failed to move download file to "+ saveFile +" !");
+            }
         } catch (FileNotFoundException e) {
+            log.error("[SFTPUTIL downloadSingleFile"+ new Date() +"] cannot make downlaod file : ./tmpfile ");
+            tmpFile.delete();
+            e.printStackTrace();
+        } catch (SftpException e) {
             log.error("[SFTPUTIL downloadSingleFile"+ new Date() +"] cannot reach the file : " + downloadFile);
+            tmpFile.delete();
             e.printStackTrace();
         }
     }
