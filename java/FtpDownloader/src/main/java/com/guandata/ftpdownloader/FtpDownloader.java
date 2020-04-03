@@ -49,6 +49,7 @@ public class FtpDownloader {
         /*FtpDownloader fd = new FtpDownloader();
         //fd.runSftpDownloader();
         fd.runSftpDownloader();*/
+
         /*File settingFile = new File("./userConfig.json");
         ObjectMapper objectMapper = new ObjectMapper().enable(JsonParser.Feature.ALLOW_COMMENTS);
         try {
@@ -126,10 +127,10 @@ public class FtpDownloader {
 
                 String shortName = trimFilename.substring(trimFilename.lastIndexOf("/")+1);
                 // shortName为路径最后的部分，也就是这个文件名公共的部分，作为外边的文件夹名称，因此补上toDir路径后在补上后缀csv才是完整的路径
-                String pathToSaveFile = toDir + shortName+"/"+shortName + "_" + time.toString("yyyyMMdd") + ".xlsx";
+                String pathToSaveFile = toDir + shortName+"/"+shortName + "_" + time.toString("yyyyMMdd") + ".csv";
                 // 这里的trimFilename是包含了路径在内的filename，但除去了文件名中的timestamp和后缀的csv，只有公共字符串部分，所以在这里补上
                 // 该客户时间戳为yyyyMMdd的格式，所以需要转化
-                String timedFilename = trimFilename +"_"+ time.toString("yyyyMMdd")+".xlsx";
+                String timedFilename = trimFilename +"_"+ time.toString("yyyyMMdd")+".csv";
                 //timedFilename = trimFilename;
                 log.info("[ftpDownloader "+ new Date() +"] fetching file " +timedFilename + " and saving to " + pathToSaveFile);
                 sftpUtil.downloadSingleFile(timedFilename, pathToSaveFile);

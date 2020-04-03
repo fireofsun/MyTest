@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6841b14c-513a-4c0f-bdd1-27b64ba9d4b4" name="Default" comment="" />
+    <list default="true" id="c6d39602-09b7-4d01-8984-5774fd369798" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,137 +21,100 @@
       <file leaf-file-name="FtpDownloader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="134" column="41" selection-start-line="134" selection-start-column="41" selection-end-line="134" selection-end-column="41" />
+            <state relative-caret-position="399">
+              <caret line="76" column="5" lean-forward="true" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#537#595#1" expanded="true" />
-                <element signature="e#604#643#1" expanded="true" />
-                <element signature="e#769#789#0" expanded="true" />
-                <element signature="e#769#789#0" expanded="true" />
-                <element signature="e#792#816#0" expanded="true" />
-                <element signature="e#792#816#0" expanded="true" />
-                <element signature="e#832#1200#1" expanded="true" />
-                <element signature="e#874#1199#0" expanded="true" />
-                <element signature="e#874#1199#0" expanded="true" />
-                <element signature="e#874#1199#0" expanded="true" />
-                <element signature="e#874#1199#0" expanded="true" />
-                <element signature="e#1285#1340#1" expanded="true" />
-                <element signature="e#1353#1395#1" expanded="true" />
-                <element signature="e#1605#1660#1" expanded="true" />
                 <element signature="e#1673#1726#1" expanded="true" />
-                <element signature="e#2998#3026#1" expanded="true" />
-                <element signature="e#3134#3169#1" expanded="true" />
-                <element signature="e#3215#3262#1" expanded="true" />
-                <element signature="e#3275#3322#1" expanded="true" />
-                <element signature="e#3335#3374#1" expanded="true" />
-                <element signature="e#3387#3426#1" expanded="true" />
-                <element signature="e#3439#3484#1" expanded="true" />
-                <element signature="e#3497#3538#1" expanded="true" />
-                <element signature="e#3551#3603#1" expanded="true" />
-                <element signature="e#3616#3661#1" expanded="true" />
-                <element signature="e#3675#3760#1" expanded="true" />
-                <element signature="e#3896#3972#0" expanded="true" />
-                <element signature="e#3896#3972#0" expanded="true" />
-                <element signature="e#3973#4039#0" expanded="true" />
-                <element signature="e#3973#4039#0" expanded="true" />
-                <element signature="e#4112#4170#1" expanded="true" />
-                <element signature="e#4149#4168#0" expanded="true" />
-                <element signature="e#4134#4214#1" expanded="true" />
-                <element signature="e#4227#4262#1" expanded="true" />
-                <element signature="e#4308#4355#1" expanded="true" />
-                <element signature="e#4368#4415#1" expanded="true" />
-                <element signature="e#4428#4467#1" expanded="true" />
-                <element signature="e#4480#4519#1" expanded="true" />
-                <element signature="e#4532#4577#1" expanded="true" />
-                <element signature="e#4590#4631#1" expanded="true" />
-                <element signature="e#4644#4696#1" expanded="true" />
-                <element signature="e#4709#4754#1" expanded="true" />
-                <element signature="e#4768#4851#1" expanded="true" />
-                <element signature="e#4970#4985#0" expanded="true" />
-                <element signature="e#5016#5054#1" expanded="true" />
-                <element signature="e#5072#5147#1" expanded="true" />
-                <element signature="e#5078#5133#0" expanded="true" />
-                <element signature="e#5101#5132#0" expanded="true" />
-                <element signature="e#5078#5133#0" expanded="true" />
-                <element signature="e#5254#5354#1" expanded="true" />
-                <element signature="e#5265#5340#0" expanded="true" />
-                <element signature="e#5265#5340#0" expanded="true" />
-                <element signature="e#5265#5340#0" expanded="true" />
-                <element signature="e#5265#5340#0" expanded="true" />
-                <element signature="e#5265#5340#0" expanded="true" />
-                <element signature="e#5265#5340#0" expanded="true" />
-                <element signature="e#5265#5340#0" expanded="true" />
-                <element signature="e#5512#5588#1" expanded="true" />
-                <element signature="e#5522#5574#0" expanded="true" />
-                <element signature="e#5522#5574#0" expanded="true" />
-                <element signature="e#5522#5574#0" expanded="true" />
-                <element signature="e#5522#5574#0" expanded="true" />
-                <element signature="e#5649#5750#0" expanded="true" />
-                <element signature="e#5649#5750#0" expanded="true" />
-                <element signature="e#5649#5750#0" expanded="true" />
-                <element signature="e#5649#5750#0" expanded="true" />
-                <element signature="e#5649#5750#0" expanded="true" />
-                <element signature="e#5649#5750#0" expanded="true" />
-                <element signature="e#5884#6036#0" expanded="true" />
-                <element signature="e#5884#6036#0" expanded="true" />
-                <element signature="e#5930#5965#0" expanded="true" />
-                <element signature="e#5930#5965#0" expanded="true" />
-                <element signature="e#6220#6279#1" expanded="true" />
+                <element signature="e#2995#3023#1" expanded="true" />
+                <element signature="e#3131#3166#1" expanded="true" />
+                <element signature="e#3212#3259#1" expanded="true" />
+                <element signature="e#3272#3319#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="userConfig.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/userConfig.properties">
+      <file leaf-file-name="userConfig.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userConfig.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            <state>
+              <caret selection-end-line="5" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SFTPUtil.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/logconfig/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SFTPUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="178" column="38" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="38" />
+            <state relative-caret-position="1965">
+              <caret line="152" column="36" selection-start-line="152" selection-start-column="34" selection-end-line="152" selection-end-column="36" />
               <folding>
-                <element signature="e#4382#4412#1" expanded="true" />
-                <element signature="e#4432#4476#1" expanded="true" />
-                <element signature="e#4580#4621#1" expanded="true" />
-                <element signature="e#4698#4782#0" expanded="true" />
-                <element signature="e#4698#4782#0" expanded="true" />
-                <element signature="e#4698#4782#0" expanded="true" />
-                <element signature="e#4698#4782#0" expanded="true" />
-                <element signature="e#4846#4939#0" expanded="true" />
-                <element signature="e#4846#4939#0" expanded="true" />
-                <element signature="e#4846#4939#0" expanded="true" />
-                <element signature="e#4846#4939#0" expanded="true" />
-                <element signature="e#4955#5172#0" expanded="true" />
-                <element signature="e#4955#5172#0" expanded="true" />
-                <element signature="e#5003#5089#0" expanded="true" />
-                <element signature="e#5003#5089#0" expanded="true" />
-                <element signature="e#5173#5383#0" expanded="true" />
-                <element signature="e#5173#5383#0" expanded="true" />
-                <element signature="e#5221#5308#0" expanded="true" />
-                <element signature="e#5221#5308#0" expanded="true" />
-                <element signature="e#5221#5308#0" expanded="true" />
-                <element signature="e#5221#5308#0" expanded="true" />
-                <element signature="e#6010#6240#0" expanded="true" />
-                <element signature="e#5282#5299#0" expanded="true" />
-                <element signature="e#6010#6240#0" expanded="true" />
+                <element signature="e#784#799#0" expanded="true" />
+                <element signature="e#1705#1728#1" expanded="true" />
+                <element signature="e#2006#2043#1" expanded="true" />
+                <element signature="e#2183#2229#1" expanded="true" />
+                <element signature="e#2281#2302#0" expanded="true" />
+                <element signature="e#2495#2513#0" expanded="true" />
+                <element signature="e#2623#2644#0" expanded="true" />
+                <element signature="e#3185#3221#1" expanded="true" />
+                <element signature="e#3234#3259#1" expanded="true" />
+                <element signature="e#3276#3286#0" expanded="true" />
+                <element signature="e#3924#4015#0" expanded="true" />
+                <element signature="e#3949#3970#0" expanded="true" />
+                <element signature="e#3949#3970#0" expanded="true" />
+                <element signature="e#3949#3970#0" expanded="true" />
+                <element signature="e#3924#4015#0" expanded="true" />
+                <element signature="e#4025#4056#1" expanded="true" />
+                <element signature="e#4311#4352#1" expanded="true" />
+                <element signature="e#4361#4416#1" expanded="true" />
+                <element signature="e#4571#4612#1" expanded="true" />
+                <element signature="e#4685#4778#0" expanded="true" />
+                <element signature="e#4685#4778#0" expanded="true" />
+                <element signature="e#4685#4778#0" expanded="true" />
+                <element signature="e#4685#4778#0" expanded="true" />
+                <element signature="e#4832#4928#0" expanded="true" />
+                <element signature="e#4832#4928#0" expanded="true" />
+                <element signature="e#4832#4928#0" expanded="true" />
+                <element signature="e#4832#4928#0" expanded="true" />
+                <element signature="e#5011#5097#0" expanded="true" />
+                <element signature="e#5011#5097#0" expanded="true" />
+                <element signature="e#5969#6001#1" expanded="true" />
+                <element signature="e#6015#6032#0" expanded="true" />
+                <element signature="e#6079#6096#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChannelSftp.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.55/jsch-0.1.55.jar!/com/jcraft/jsch/ChannelSftp.class">
+      <file leaf-file-name="userConfig.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/userConfig.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="862" column="48" selection-start-line="862" selection-start-column="45" selection-end-line="862" selection-end-column="48" />
+            <state>
+              <caret selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="37" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -160,14 +123,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pathToSaveFile</find>
+      <find>sftp</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/userConfig.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java" />
       </list>
@@ -179,25 +140,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ftpdownloader" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="105" />
-    <option name="y" value="23" />
-    <option name="width" value="1584" />
-    <option name="height" value="1095" />
+    <option name="x" value="22" />
+    <option name="y" value="613" />
+    <option name="width" value="1920" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -214,29 +164,6 @@
             <path>
               <item name="ftpdownloader" type="b2602c69:ProjectViewProjectNode" />
               <item name="FtpDownloader" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ftpdownloader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FtpDownloader" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ftpdownloader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FtpDownloader" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="ftpdownloader_jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ftpdownloader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FtpDownloader" type="462c0819:PsiDirectoryNode" />
-              <item name="Snapshot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ftpdownloader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FtpDownloader" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -244,21 +171,14 @@
               <item name="FtpDownloader" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ftpdownloader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FtpDownloader" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,8 +187,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15391459" />
+    <property name="project.structure.side.proportion" value="0.5635104" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -355,50 +275,69 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6841b14c-513a-4c0f-bdd1-27b64ba9d4b4" name="Default" comment="" />
-      <created>1568962249019</created>
+      <changelist id="c6d39602-09b7-4d01-8984-5774fd369798" name="Default" comment="" />
+      <created>1569809025179</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568962249019</updated>
-      <workItem from="1568962250319" duration="710000" />
-      <workItem from="1568972818596" duration="2000" />
-      <workItem from="1568972836363" duration="282000" />
-      <workItem from="1568977737801" duration="3669000" />
-      <workItem from="1569032982089" duration="2565000" />
+      <updated>1569809025179</updated>
+      <workItem from="1569809026566" duration="4278000" />
+      <workItem from="1571973356238" duration="79000" />
+      <workItem from="1571973627432" duration="46000" />
+      <workItem from="1571995997159" duration="303000" />
+      <workItem from="1573007718728" duration="692000" />
+      <workItem from="1573090799213" duration="124000" />
+      <workItem from="1573094848516" duration="136000" />
+      <workItem from="1573112612541" duration="4065000" />
+      <workItem from="1573124199988" duration="2360000" />
+      <workItem from="1573712531741" duration="639000" />
+      <workItem from="1574070513159" duration="78000" />
+      <workItem from="1574070607390" duration="417000" />
+      <workItem from="1574754623294" duration="641000" />
+      <workItem from="1574756864820" duration="1500000" />
+      <workItem from="1575857426900" duration="354000" />
+      <workItem from="1575872736357" duration="158000" />
+      <workItem from="1575873140843" duration="262000" />
+      <workItem from="1575873429601" duration="746000" />
+      <workItem from="1575874775103" duration="634000" />
+      <workItem from="1575877620330" duration="642000" />
+      <workItem from="1575976610998" duration="722000" />
+      <workItem from="1575977462806" duration="783000" />
+      <workItem from="1576029802054" duration="16000" />
+      <workItem from="1576727308797" duration="645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7228000" />
+    <option name="totallyTimeSpent" value="20320000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="105" y="23" width="1584" height="1095" extended-state="0" />
+    <frame x="22" y="613" width="1920" height="1092" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32960597" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.16984925" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32064128" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41583166" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3002594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18051118" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994911" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -412,406 +351,446 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="1695">
+          <caret line="134" column="23" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#537#595#1" expanded="true" />
-            <element signature="e#604#643#1" expanded="true" />
-            <element signature="e#769#789#0" expanded="true" />
-            <element signature="e#769#789#0" expanded="true" />
-            <element signature="e#792#816#0" expanded="true" />
-            <element signature="e#792#816#0" expanded="true" />
-            <element signature="e#832#1200#1" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#1285#1340#1" expanded="true" />
-            <element signature="e#1353#1395#1" expanded="true" />
-            <element signature="e#1605#1660#1" expanded="true" />
-            <element signature="e#1673#1726#1" expanded="true" />
-            <element signature="e#2998#3026#1" expanded="true" />
-            <element signature="e#3134#3169#1" expanded="true" />
-            <element signature="e#3215#3262#1" expanded="true" />
-            <element signature="e#3275#3322#1" expanded="true" />
-            <element signature="e#3335#3374#1" expanded="true" />
-            <element signature="e#3387#3426#1" expanded="true" />
-            <element signature="e#3439#3484#1" expanded="true" />
-            <element signature="e#3497#3538#1" expanded="true" />
-            <element signature="e#3551#3603#1" expanded="true" />
-            <element signature="e#3616#3661#1" expanded="true" />
-            <element signature="e#3675#3760#1" expanded="true" />
-            <element signature="e#3896#3972#0" expanded="true" />
-            <element signature="e#3896#3972#0" expanded="true" />
-            <element signature="e#3973#4039#0" expanded="true" />
-            <element signature="e#3973#4039#0" expanded="true" />
-            <element signature="e#4112#4170#1" expanded="true" />
-            <element signature="e#4149#4168#0" expanded="true" />
-            <element signature="e#4134#4214#1" expanded="true" />
-            <element signature="e#4227#4262#1" expanded="true" />
-            <element signature="e#4308#4355#1" expanded="true" />
-            <element signature="e#4368#4415#1" expanded="true" />
-            <element signature="e#4428#4467#1" expanded="true" />
-            <element signature="e#4480#4519#1" expanded="true" />
-            <element signature="e#4532#4577#1" expanded="true" />
-            <element signature="e#4590#4631#1" expanded="true" />
-            <element signature="e#4644#4696#1" expanded="true" />
-            <element signature="e#4709#4754#1" expanded="true" />
-            <element signature="e#4768#4851#1" expanded="true" />
-            <element signature="e#4970#4985#0" expanded="true" />
-            <element signature="e#5016#5054#1" expanded="true" />
-            <element signature="e#5072#5147#1" expanded="true" />
-            <element signature="e#5078#5133#0" expanded="true" />
-            <element signature="e#5101#5132#0" expanded="true" />
-            <element signature="e#5078#5133#0" expanded="true" />
-            <element signature="e#5254#5354#1" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5512#5588#1" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5884#6036#0" expanded="true" />
-            <element signature="e#5884#6036#0" expanded="true" />
-            <element signature="e#5930#5965#0" expanded="true" />
-            <element signature="e#5930#5965#0" expanded="true" />
-            <element signature="e#6220#6279#1" expanded="true" />
+            <element signature="e#784#799#0" expanded="true" />
+            <element signature="e#1705#1728#1" expanded="true" />
+            <element signature="e#2006#2043#1" expanded="true" />
+            <element signature="e#2183#2229#1" expanded="true" />
+            <element signature="e#2281#2302#0" expanded="true" />
+            <element signature="e#2495#2513#0" expanded="true" />
+            <element signature="e#2623#2644#0" expanded="true" />
+            <element signature="e#3185#3221#1" expanded="true" />
+            <element signature="e#3234#3259#1" expanded="true" />
+            <element signature="e#3276#3286#0" expanded="true" />
+            <element signature="e#3924#4015#0" expanded="true" />
+            <element signature="e#3949#3970#0" expanded="true" />
+            <element signature="e#3949#3970#0" expanded="true" />
+            <element signature="e#3949#3970#0" expanded="true" />
+            <element signature="e#3924#4015#0" expanded="true" />
+            <element signature="e#4025#4056#1" expanded="true" />
+            <element signature="e#4311#4352#1" expanded="true" />
+            <element signature="e#4361#4416#1" expanded="true" />
+            <element signature="e#4571#4612#1" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#5011#5097#0" expanded="true" />
+            <element signature="e#5011#5097#0" expanded="true" />
+            <element signature="e#5969#6001#1" expanded="true" />
+            <element signature="e#6015#6032#0" expanded="true" />
+            <element signature="e#6079#6096#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        <state relative-caret-position="690">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="120" column="5" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#537#595#1" expanded="true" />
-            <element signature="e#604#643#1" expanded="true" />
-            <element signature="e#769#789#0" expanded="true" />
-            <element signature="e#769#789#0" expanded="true" />
-            <element signature="e#792#816#0" expanded="true" />
-            <element signature="e#792#816#0" expanded="true" />
-            <element signature="e#832#1200#1" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#1285#1340#1" expanded="true" />
-            <element signature="e#1353#1395#1" expanded="true" />
-            <element signature="e#1605#1660#1" expanded="true" />
-            <element signature="e#1673#1726#1" expanded="true" />
-            <element signature="e#2998#3026#1" expanded="true" />
-            <element signature="e#3134#3169#1" expanded="true" />
-            <element signature="e#3215#3262#1" expanded="true" />
-            <element signature="e#3275#3322#1" expanded="true" />
-            <element signature="e#3335#3374#1" expanded="true" />
-            <element signature="e#3387#3426#1" expanded="true" />
-            <element signature="e#3439#3484#1" expanded="true" />
-            <element signature="e#3497#3538#1" expanded="true" />
-            <element signature="e#3551#3603#1" expanded="true" />
-            <element signature="e#3616#3661#1" expanded="true" />
-            <element signature="e#3675#3760#1" expanded="true" />
-            <element signature="e#3896#3972#0" expanded="true" />
-            <element signature="e#3896#3972#0" expanded="true" />
-            <element signature="e#3973#4039#0" expanded="true" />
-            <element signature="e#3973#4039#0" expanded="true" />
-            <element signature="e#4112#4170#1" expanded="true" />
-            <element signature="e#4149#4168#0" expanded="true" />
-            <element signature="e#4134#4214#1" expanded="true" />
-            <element signature="e#4227#4262#1" expanded="true" />
-            <element signature="e#4308#4355#1" expanded="true" />
-            <element signature="e#4368#4415#1" expanded="true" />
-            <element signature="e#4428#4467#1" expanded="true" />
-            <element signature="e#4480#4519#1" expanded="true" />
-            <element signature="e#4532#4577#1" expanded="true" />
-            <element signature="e#4590#4631#1" expanded="true" />
-            <element signature="e#4644#4696#1" expanded="true" />
-            <element signature="e#4709#4754#1" expanded="true" />
-            <element signature="e#4768#4851#1" expanded="true" />
-            <element signature="e#4970#4985#0" expanded="true" />
-            <element signature="e#5016#5054#1" expanded="true" />
-            <element signature="e#5072#5147#1" expanded="true" />
-            <element signature="e#5078#5133#0" expanded="true" />
-            <element signature="e#5101#5132#0" expanded="true" />
-            <element signature="e#5078#5133#0" expanded="true" />
-            <element signature="e#5254#5354#1" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5512#5588#1" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5884#6036#0" expanded="true" />
-            <element signature="e#5884#6036#0" expanded="true" />
-            <element signature="e#5930#5965#0" expanded="true" />
-            <element signature="e#5930#5965#0" expanded="true" />
-            <element signature="e#6220#6279#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="1215">
+          <caret line="94" column="34" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
+    <entry file="file://$PROJECT_DIR$/userConfig.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="72" column="33" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#537#595#1" expanded="true" />
-            <element signature="e#604#643#1" expanded="true" />
-            <element signature="e#769#789#0" expanded="true" />
-            <element signature="e#769#789#0" expanded="true" />
-            <element signature="e#792#816#0" expanded="true" />
-            <element signature="e#792#816#0" expanded="true" />
-            <element signature="e#832#1200#1" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#1285#1340#1" expanded="true" />
-            <element signature="e#1353#1395#1" expanded="true" />
-            <element signature="e#1605#1660#1" expanded="true" />
-            <element signature="e#1673#1726#1" expanded="true" />
-            <element signature="e#2998#3026#1" expanded="true" />
-            <element signature="e#3134#3169#1" expanded="true" />
-            <element signature="e#3215#3262#1" expanded="true" />
-            <element signature="e#3275#3322#1" expanded="true" />
-            <element signature="e#3335#3374#1" expanded="true" />
-            <element signature="e#3387#3426#1" expanded="true" />
-            <element signature="e#3439#3484#1" expanded="true" />
-            <element signature="e#3497#3538#1" expanded="true" />
-            <element signature="e#3551#3603#1" expanded="true" />
-            <element signature="e#3616#3661#1" expanded="true" />
-            <element signature="e#3675#3760#1" expanded="true" />
-            <element signature="e#3896#3972#0" expanded="true" />
-            <element signature="e#3896#3972#0" expanded="true" />
-            <element signature="e#3973#4039#0" expanded="true" />
-            <element signature="e#3973#4039#0" expanded="true" />
-            <element signature="e#4112#4170#1" expanded="true" />
-            <element signature="e#4149#4168#0" expanded="true" />
-            <element signature="e#4134#4214#1" expanded="true" />
-            <element signature="e#4227#4262#1" expanded="true" />
-            <element signature="e#4308#4355#1" expanded="true" />
-            <element signature="e#4368#4415#1" expanded="true" />
-            <element signature="e#4428#4467#1" expanded="true" />
-            <element signature="e#4480#4519#1" expanded="true" />
-            <element signature="e#4532#4577#1" expanded="true" />
-            <element signature="e#4590#4631#1" expanded="true" />
-            <element signature="e#4644#4696#1" expanded="true" />
-            <element signature="e#4709#4754#1" expanded="true" />
-            <element signature="e#4768#4851#1" expanded="true" />
-            <element signature="e#4970#4985#0" expanded="true" />
-            <element signature="e#5016#5054#1" expanded="true" />
-            <element signature="e#5072#5147#1" expanded="true" />
-            <element signature="e#5078#5133#0" expanded="true" />
-            <element signature="e#5101#5132#0" expanded="true" />
-            <element signature="e#5078#5133#0" expanded="true" />
-            <element signature="e#5254#5354#1" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5512#5588#1" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5884#6036#0" expanded="true" />
-            <element signature="e#5884#6036#0" expanded="true" />
-            <element signature="e#5930#5965#0" expanded="true" />
-            <element signature="e#5930#5965#0" expanded="true" />
-            <element signature="e#6220#6279#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="72" column="33" lean-forward="true" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+        <state>
+          <caret selection-end-line="5" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        <state relative-caret-position="690">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="164" column="7" lean-forward="true" selection-start-line="164" selection-start-column="7" selection-end-line="164" selection-end-column="7" />
+          <folding>
+            <element signature="e#784#799#0" expanded="true" />
+            <element signature="e#1705#1728#1" expanded="true" />
+            <element signature="e#2006#2043#1" expanded="true" />
+            <element signature="e#2183#2229#1" expanded="true" />
+            <element signature="e#2281#2302#0" expanded="true" />
+            <element signature="e#2495#2513#0" expanded="true" />
+            <element signature="e#2623#2644#0" expanded="true" />
+            <element signature="e#3185#3221#1" expanded="true" />
+            <element signature="e#3234#3259#1" expanded="true" />
+            <element signature="e#3276#3286#0" expanded="true" />
+            <element signature="e#3924#4015#0" expanded="true" />
+            <element signature="e#3949#3970#0" expanded="true" />
+            <element signature="e#3949#3970#0" expanded="true" />
+            <element signature="e#3949#3970#0" expanded="true" />
+            <element signature="e#3924#4015#0" expanded="true" />
+            <element signature="e#4025#4056#1" expanded="true" />
+            <element signature="e#4311#4352#1" expanded="true" />
+            <element signature="e#4361#4416#1" expanded="true" />
+            <element signature="e#4571#4612#1" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#5011#5097#0" expanded="true" />
+            <element signature="e#5011#5097#0" expanded="true" />
+            <element signature="e#5969#6001#1" expanded="true" />
+            <element signature="e#6015#6032#0" expanded="true" />
+            <element signature="e#6079#6096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="166" column="23" selection-start-line="166" selection-start-column="23" selection-end-line="166" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="94" column="34" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="137" column="38" selection-start-line="136" selection-start-column="20" selection-end-line="137" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="123" column="21" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="137" column="38" lean-forward="true" selection-start-line="136" selection-start-column="20" selection-end-line="137" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="116" column="7" lean-forward="true" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="109" column="13" lean-forward="true" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="85" column="39" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="92" column="57" selection-start-line="82" selection-start-column="12" selection-end-line="92" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="92" column="57" lean-forward="true" selection-start-line="82" selection-start-column="12" selection-end-line="92" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-net/commons-net/3.6/commons-net-3.6.jar!/org/apache/commons/net/ftp/FTPClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.55/jsch-0.1.55.jar!/com/jcraft/jsch/ChannelSftp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="854" column="16" selection-start-line="854" selection-start-column="16" selection-end-line="854" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="152" column="36" selection-start-line="152" selection-start-column="34" selection-end-line="152" selection-end-column="36" />
+          <folding>
+            <element signature="e#784#799#0" expanded="true" />
+            <element signature="e#1705#1728#1" expanded="true" />
+            <element signature="e#2006#2043#1" expanded="true" />
+            <element signature="e#2183#2229#1" expanded="true" />
+            <element signature="e#2281#2302#0" expanded="true" />
+            <element signature="e#2495#2513#0" expanded="true" />
+            <element signature="e#2623#2644#0" expanded="true" />
+            <element signature="e#3185#3221#1" expanded="true" />
+            <element signature="e#3234#3259#1" expanded="true" />
+            <element signature="e#3276#3286#0" expanded="true" />
+            <element signature="e#3924#4015#0" expanded="true" />
+            <element signature="e#3949#3970#0" expanded="true" />
+            <element signature="e#3949#3970#0" expanded="true" />
+            <element signature="e#3949#3970#0" expanded="true" />
+            <element signature="e#3924#4015#0" expanded="true" />
+            <element signature="e#4025#4056#1" expanded="true" />
+            <element signature="e#4311#4352#1" expanded="true" />
+            <element signature="e#4361#4416#1" expanded="true" />
+            <element signature="e#4571#4612#1" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4685#4778#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#4832#4928#0" expanded="true" />
+            <element signature="e#5011#5097#0" expanded="true" />
+            <element signature="e#5011#5097#0" expanded="true" />
+            <element signature="e#5969#6001#1" expanded="true" />
+            <element signature="e#6015#6032#0" expanded="true" />
+            <element signature="e#6079#6096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logconfig/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="165" column="42" selection-start-line="165" selection-start-column="31" selection-end-line="165" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="76" column="5" lean-forward="true" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1673#1726#1" expanded="true" />
+            <element signature="e#2995#3023#1" expanded="true" />
+            <element signature="e#3131#3166#1" expanded="true" />
+            <element signature="e#3212#3259#1" expanded="true" />
+            <element signature="e#3272#3319#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/userConfig.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.55/jsch-0.1.55.jar!/com/jcraft/jsch/ChannelSftp.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="862" column="48" selection-start-line="862" selection-start-column="45" selection-end-line="862" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/userConfig.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/FtpDownloader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="134" column="41" selection-start-line="134" selection-start-column="41" selection-end-line="134" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#537#595#1" expanded="true" />
-            <element signature="e#604#643#1" expanded="true" />
-            <element signature="e#769#789#0" expanded="true" />
-            <element signature="e#769#789#0" expanded="true" />
-            <element signature="e#792#816#0" expanded="true" />
-            <element signature="e#792#816#0" expanded="true" />
-            <element signature="e#832#1200#1" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#874#1199#0" expanded="true" />
-            <element signature="e#1285#1340#1" expanded="true" />
-            <element signature="e#1353#1395#1" expanded="true" />
-            <element signature="e#1605#1660#1" expanded="true" />
-            <element signature="e#1673#1726#1" expanded="true" />
-            <element signature="e#2998#3026#1" expanded="true" />
-            <element signature="e#3134#3169#1" expanded="true" />
-            <element signature="e#3215#3262#1" expanded="true" />
-            <element signature="e#3275#3322#1" expanded="true" />
-            <element signature="e#3335#3374#1" expanded="true" />
-            <element signature="e#3387#3426#1" expanded="true" />
-            <element signature="e#3439#3484#1" expanded="true" />
-            <element signature="e#3497#3538#1" expanded="true" />
-            <element signature="e#3551#3603#1" expanded="true" />
-            <element signature="e#3616#3661#1" expanded="true" />
-            <element signature="e#3675#3760#1" expanded="true" />
-            <element signature="e#3896#3972#0" expanded="true" />
-            <element signature="e#3896#3972#0" expanded="true" />
-            <element signature="e#3973#4039#0" expanded="true" />
-            <element signature="e#3973#4039#0" expanded="true" />
-            <element signature="e#4112#4170#1" expanded="true" />
-            <element signature="e#4149#4168#0" expanded="true" />
-            <element signature="e#4134#4214#1" expanded="true" />
-            <element signature="e#4227#4262#1" expanded="true" />
-            <element signature="e#4308#4355#1" expanded="true" />
-            <element signature="e#4368#4415#1" expanded="true" />
-            <element signature="e#4428#4467#1" expanded="true" />
-            <element signature="e#4480#4519#1" expanded="true" />
-            <element signature="e#4532#4577#1" expanded="true" />
-            <element signature="e#4590#4631#1" expanded="true" />
-            <element signature="e#4644#4696#1" expanded="true" />
-            <element signature="e#4709#4754#1" expanded="true" />
-            <element signature="e#4768#4851#1" expanded="true" />
-            <element signature="e#4970#4985#0" expanded="true" />
-            <element signature="e#5016#5054#1" expanded="true" />
-            <element signature="e#5072#5147#1" expanded="true" />
-            <element signature="e#5078#5133#0" expanded="true" />
-            <element signature="e#5101#5132#0" expanded="true" />
-            <element signature="e#5078#5133#0" expanded="true" />
-            <element signature="e#5254#5354#1" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5265#5340#0" expanded="true" />
-            <element signature="e#5512#5588#1" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5522#5574#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5649#5750#0" expanded="true" />
-            <element signature="e#5884#6036#0" expanded="true" />
-            <element signature="e#5884#6036#0" expanded="true" />
-            <element signature="e#5930#5965#0" expanded="true" />
-            <element signature="e#5930#5965#0" expanded="true" />
-            <element signature="e#6220#6279#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/guandata/ftpdownloader/SFTPUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="178" column="38" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="38" />
-          <folding>
-            <element signature="e#4382#4412#1" expanded="true" />
-            <element signature="e#4432#4476#1" expanded="true" />
-            <element signature="e#4580#4621#1" expanded="true" />
-            <element signature="e#4698#4782#0" expanded="true" />
-            <element signature="e#4698#4782#0" expanded="true" />
-            <element signature="e#4698#4782#0" expanded="true" />
-            <element signature="e#4698#4782#0" expanded="true" />
-            <element signature="e#4846#4939#0" expanded="true" />
-            <element signature="e#4846#4939#0" expanded="true" />
-            <element signature="e#4846#4939#0" expanded="true" />
-            <element signature="e#4846#4939#0" expanded="true" />
-            <element signature="e#4955#5172#0" expanded="true" />
-            <element signature="e#4955#5172#0" expanded="true" />
-            <element signature="e#5003#5089#0" expanded="true" />
-            <element signature="e#5003#5089#0" expanded="true" />
-            <element signature="e#5173#5383#0" expanded="true" />
-            <element signature="e#5173#5383#0" expanded="true" />
-            <element signature="e#5221#5308#0" expanded="true" />
-            <element signature="e#5221#5308#0" expanded="true" />
-            <element signature="e#5221#5308#0" expanded="true" />
-            <element signature="e#5221#5308#0" expanded="true" />
-            <element signature="e#6010#6240#0" expanded="true" />
-            <element signature="e#5282#5299#0" expanded="true" />
-            <element signature="e#6010#6240#0" expanded="true" />
-          </folding>
+        <state>
+          <caret selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -825,7 +804,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5635104" />
                 <option value="0.5" />
               </list>
             </option>
@@ -862,7 +841,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5635104" />
               </list>
             </option>
           </splitter-proportions>
@@ -874,7 +853,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5635104" />
                 <option value="0.6" />
               </list>
             </option>
@@ -895,7 +874,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.jcraft:jsch:0.1.55</last-edited>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

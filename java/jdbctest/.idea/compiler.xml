@@ -6,9 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ads" />
-        <module name="Doris" />
-        <module name="hive" />
         <module name="pg-jdbc (1)" />
         <module name="pg-jdbc (2)" />
         <module name="sqlServer" />
@@ -16,12 +13,5 @@
         <module name="teradata" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="aaaaaaaa" target="1.5" />
-      <module name="doris" target="1.5" />
-      <module name="jdbc-test (1) (com.guandata.aa)" target="1.5" />
-      <module name="jdbc-test (2) (com.guandata)" target="1.5" />
-      <module name="transwap" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
