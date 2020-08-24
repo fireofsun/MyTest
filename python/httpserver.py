@@ -45,7 +45,7 @@ class ToDo:
 
     # 获取port
     def showTips(self):
-        port = 1234
+        port = 8888
         try:
             print ToDo().getTimeNow() + 'Please visit files or dirs use Chrome Browser:http://' + ToDo().getip() + ':' + str(
                 port)
